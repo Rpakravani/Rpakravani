@@ -22,7 +22,12 @@ I enjoy building clean, efficient software and working on projects that combine 
 - Building larger, modular, production‑style software projects  
 
 ---
+### 🚀 Featured Projects  
+- **End‑to‑End ML System** — designed modular data pipelines, feature engineering, model evaluation, and experiment tracking  
+- **Game Architecture & Simulation** — built grid‑based systems, real‑time state updates, collision logic, and enemy pathfinding  
+- **State‑Space Search & Heuristics** — implemented BFS/DFS/A* search strategies for complex problem spaces with pruning and heuristic optimization
 
+---
 
 ### 📫 Contact Me  
 Feel free to reach out for collaborations or questions.  
