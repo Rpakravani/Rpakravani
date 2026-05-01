@@ -1,21 +1,37 @@
 # Hi, I’m Rambod (Rammy) 👋  
+
 ### 🎓 About Me  
-I’m a second-year Computer Science major at **Simon Fraser University** with a passion for programming, problem-solving, and exploring new technologies.  
+I’m a second‑year Computer Science student at **Simon Fraser University**, interested in building clean, efficient software and exploring the intersection of **AI, algorithms, and systems programming**.  
+I enjoy tackling technical challenges, learning deeply, and building projects that actually work.
+
+---
 
 ### 🔧 Skills & Interests  
-- **Programming Languages**: Python, C/C++, Java (learning)   
-- **Currently Learning**: Advanced python and Java programming, Data Structures, Computer Science Foundations  
-- **Hobbies**: Playing guitar, listening to music
- 
-### 📫 Contact Me  
-Feel free to reach out for collaborations or just to chat!  
-📧 **Email**: [rpa89@sfu.ca](mailto:rpa89@sfu.ca)  
+- **Languages**: Python, C, C++, Java  
+- **Core Strengths**: Algorithms, data structures, debugging, problem‑solving, clean code  
+- **Currently Exploring**:  
+  - Machine learning fundamentals  
+  - Reinforcement learning concepts  
+  - Systems programming & memory management  
+  - Building larger, more structured software projects  
+- **Hobbies**: Guitar, music, coding side‑projects
+
+---
 
 ### 🚀 Goals  
-I’m eager to contribute to open-source projects and expand my knowledge in software development. Let’s connect!  
+- Build a strong portfolio of meaningful projects  
+- Contribute to open‑source and research‑oriented work  
+- Develop expertise in AI/ML and software engineering  
+- Keep improving through consistent practice and real‑world projects  
 
+---
+
+### 📫 Contact Me  
+Feel free to reach out for collaborations or questions.  
+📧 **Email**: [rpa89@sfu.ca](mailto:rpa89@sfu.ca)
+
+---
 
 <!---
-RambodFuture/RambodFuture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Rpakravani/Rpakravani is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
