@@ -1,30 +1,28 @@
 # Hi, I’m Rambod (Rammy) 👋  
 
 ### 🎓 About Me  
-I’m a second‑year Computer Science student at **Simon Fraser University**, interested in building clean, efficient software and exploring the intersection of **AI, algorithms, and systems programming**.  
-I enjoy tackling technical challenges, learning deeply, and building projects that actually work.
+I’m a second‑year Computer Science student at **Simon Fraser University**, focusing on **AI, algorithms, and systems programming**.  
+I enjoy building clean, efficient software and working on projects that combine theory with real implementation.
 
 ---
 
-### 🔧 Skills & Interests  
-- **Languages**: Python, C, C++, Java  
-- **Core Strengths**: Algorithms, data structures, debugging, problem‑solving, clean code  
-- **Currently Exploring**:  
-  - Machine learning fundamentals  
-  - Reinforcement learning concepts  
-  - Systems programming & memory management  
-  - Building larger, more structured software projects  
-- **Hobbies**: Guitar, music, coding side‑projects
+### 🔧 Technical Skills  
+- **Languages**: Python, Java, C, C++  
+- **Machine Learning**: NumPy, Pandas, scikit‑learn, TensorFlow, OpenCV  
+- **Tools & Frameworks**: Git, GitHub, Maven, JUnit, LaTeX, Figma, Maze  
+- **Environments**: VS Code, PyCharm, Ubuntu/Linux, Jupyter, Google Colab  
+- **Strengths**: Algorithms, data structures, debugging, memory management, clean code design  
 
 ---
 
-### 🚀 Goals  
-- Build a strong portfolio of meaningful projects  
-- Contribute to open‑source and research‑oriented work  
-- Develop expertise in AI/ML and software engineering  
-- Keep improving through consistent practice and real‑world projects  
+### 🧠 Currently Exploring  
+- Machine learning model design & evaluation  
+- Reinforcement learning fundamentals  
+- Systems programming and performance optimization  
+- Building larger, modular, production‑style software projects  
 
 ---
+
 
 ### 📫 Contact Me  
 Feel free to reach out for collaborations or questions.  
