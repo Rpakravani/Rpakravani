@@ -1,7 +1,7 @@
 # Hi, I’m Rambod (Rammy) 👋  
 
 ### 🎓 About Me  
-I’m a second‑year Computer Science student at **Simon Fraser University**, focusing on **AI, algorithms, and systems programming**.  
+I’m a third‑year Computer Science student at **Simon Fraser University**, focusing on **AI, algorithms, and systems programming**.  
 I enjoy building clean, efficient software and working on projects that combine theory with real implementation.
 
 ---
